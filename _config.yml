@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://guoxingxing.com
+name: guoxingxing.com
+author: guoxingxing
+qq: 328072002
+email: xingxingguoguo@foxmail.com
+duoshuo: guoxingxing, no registered
+beian: no registered
+github: kanego
+pygments: true
+safe: true
+paginate: 20
+about: "<br>2015年6月底迁移到 Jekyll @ GitHub。<br/>这里包含了部分个人的“折腾”过程、结论和成果，切换到分类模可以更快地找到感兴趣的内容，欢迎观赏、建议、拍砖……"
