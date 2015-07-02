@@ -65,7 +65,7 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
-  $('body').on('click', '.show-commend', function(){
+/*  $('body').on('click', '.show-commend', function(){
     var ds_loaded = false;
     window.disqus_shortname = $('.show-commend').attr('name');
     $.ajax({
@@ -74,7 +74,7 @@ $(document).ready(function() {
       dataType: "script",
       cache: true
     });
-  });
+  });*/
   contentEffects();
 });
 function contentEffects(){
