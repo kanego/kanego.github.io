@@ -30,8 +30,8 @@ favicon: /public/img/deer3.png
 #disqus:
  # shortname: painterlin
 #duoshuo 设置
-duoshuo：
-  shortname：guoxingxing
+duoshuo:
+  shortname: guoxingxing
 
 # 主题设置，自动激活某个标签
 active: 读书
