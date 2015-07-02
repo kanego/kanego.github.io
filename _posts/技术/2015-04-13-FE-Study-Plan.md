@@ -6,11 +6,11 @@ tags: FE
 keywords: 
 description: 
 ---
-1、js基本语法，jquery，angularjs
-2、html
-3、css:bootstap
+1、js基本语法，jquery，angularjs  <br>
+2、html <br>
+3、css:bootstap <br>
 
-<b>一步一步来搞</b>
+<b>总之，一步一步来搞</b>
 
 
 
