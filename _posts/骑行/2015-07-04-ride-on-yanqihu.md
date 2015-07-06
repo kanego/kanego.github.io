@@ -11,4 +11,4 @@ description:
 跟随我厂，骑行大队。<br>
 很愉快的一次骑行。<br>
 <hr>
-<img src="/public/img/ride/yanqihu_route.jpg" style="width:100%">
+<img src="/public/img/ride/yanqihu_route.jpg">
