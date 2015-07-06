@@ -7,6 +7,8 @@ keywords:
 description: 
 ---
 
-全程130公里。
-跟随我厂，骑行大队。
-很愉快的一次骑行。
+全程130公里。<br>
+跟随我厂，骑行大队。<br>
+很愉快的一次骑行。<br>
+<hr>
+<img src="/public/img/ride/yanqihu_route.jpg" style="width:100%">
