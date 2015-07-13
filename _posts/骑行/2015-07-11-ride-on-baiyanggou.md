@@ -14,8 +14,9 @@ description:
 <br>匆匆吃了昨天晚上准备好的半只鸡+两块饼。
 <br>检查下装备是否带齐：打气筒，修车装备，补充能量的水果干，钱包，手套。
 <br>一切就绪，出发,**go,go,Let's go go!**，这时已经7点了。
-<p>
-![先来一张自拍](/public/img/ride/baiyanggo/face.jpg)<p>
+
+![先来一张自拍](/public/img/ride/baiyanggou/face.jpg)<br>
+
 1. 顺着北清路，一路向西，直达温南路口 <br>
 2. 沿着温南路，一路搂到温阳路。<br>
 3. 到达流村，在小卖部，补充水分。过了流村环岛，开始爬坡，一直爬到水库。这坡够陡的。<br>
@@ -25,10 +26,10 @@ description:
 山里真的好凉爽。<br>
 这次白羊沟只爬了一半，下次一定直达山顶。<br>
 无图无真相，上图。<br>
-![俯视](/public/img/ride/baiyanggo/down.jpg)
-![远景](/public/img/ride/baiyanggo/fushi.jpg)
-![六道弯一角](/public/img/ride/baiyanggo/liudaowan_1.jpg)
-![六道弯一角](/public/img/ride/baiyanggo/liudaowan_2.jpg)
-![再来个自拍](/public/img/ride/baiyanggo/myself.jpg)
-![干净的泉水](/public/img/ride/baiyanggo/溪水.jpg)
-![最后一张自拍](/public/img/ride/baiyanggo/zipai.jpg)
+![俯视](/public/img/ride/baiyanggou/down.jpg)<br>
+![远景](/public/img/ride/baiyanggou/fushi.jpg)<br>
+![六道弯一角](/public/img/ride/baiyanggou/liudaowan_1.jpg)<br>
+![六道弯一角](/public/img/ride/baiyanggou/liudaowan_2.jpg)<br>
+![再来个自拍](/public/img/ride/baiyanggou/myself.jpg)<br>
+![干净的泉水](/public/img/ride/baiyanggou/溪水.jpg)<br>
+![最后一张自拍](/public/img/ride/baiyanggou/zipai.jpg)
