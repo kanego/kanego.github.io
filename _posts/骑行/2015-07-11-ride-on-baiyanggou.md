@@ -15,7 +15,7 @@ description:
 <br>检查下装备是否带齐：打气筒，修车装备，补充能量的水果干，钱包，手套。
 <br>一切就绪，出发,**go,go,Let's go go!**，这时已经7点了。
 <p>
-![](){先来一张自拍}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\face.jpg}<p>
+![先来一张自拍](public\img\ride\baiyanggou/public\img\ride\baiyanggo\face.jpg)<p>
 1. 顺着北清路，一路向西，直达温南路口 <br>
 2. 沿着温南路，一路搂到温阳路。<br>
 3. 到达流村，在小卖部，补充水分。过了流村环岛，开始爬坡，一直爬到水库。这坡够陡的。<br>
@@ -24,11 +24,11 @@ description:
 全程90公里左右。<br>
 山里真的好凉爽。<br>
 这次白羊沟只爬了一半，下次一定直达山顶。<br>
-无图无真相，上图。
-![](){俯视爬的坡}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\down.jpg}<p>
-![](){远景}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\fushi.jpg}<p>
-![](){六道弯一角}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\liudaowan_1.jpg}<p>
-![](){六道弯一角}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\liudaowan_2.jpg}<p>
-![](){再来个自拍}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\myself.jpg}<p>
-![](){干净的泉水}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\溪水.jpg}<p>
-![](){最后一张自拍}{public\img\ride\baiyanggou/public\img\ride\baiyanggo\zipai.jpg}<p>
+无图无真相，上图。<br>
+![俯视](public\img\ride\baiyanggou/public\img\ride\baiyanggo\down.jpg)
+![2](public\img\ride\baiyanggou/public\img\ride\baiyanggo\fushi.jpg){远景}
+![3](public\img\ride\baiyanggou/public\img\ride\baiyanggo\liudaowan_1.jpg){六道弯一角}
+![4](public\img\ride\baiyanggou/public\img\ride\baiyanggo\liudaowan_2.jpg){六道弯一角}
+![5](public\img\ride\baiyanggou/public\img\ride\baiyanggo\myself.jpg){再来个自拍}
+![6](public\img\ride\baiyanggou/public\img\ride\baiyanggo\溪水.jpg){干净的泉水}
+![7](public\img\ride\baiyanggou/public\img\ride\baiyanggo\zipai.jpg){最后一张自拍}
