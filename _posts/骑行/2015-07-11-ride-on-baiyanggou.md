@@ -15,7 +15,7 @@ description:
 <br>检查下装备是否带齐：打气筒，修车装备，补充能量的水果干，钱包，手套。
 <br>一切就绪，出发,**go,go,Let's go go!**，这时已经7点了。
 
-**先来自拍，呵呵**<br>
+**先来张自拍，呵呵**<br>
 <img src="/public/img/ride/baiyanggou/face.jpg" height="200",width="200"/><br>
 
 1. 顺着北清路，一路向西，直达温南路口 <br>
