@@ -28,16 +28,16 @@ description:
 这次白羊沟只爬了一半，下次一定直达山顶。<br>
 无图无真相，上图。<br>
 **山中美景**<br>
-<img src="/public/img/ride/baiyanggou/down.jpg" height="200",width="200"/><br>
-<img src="/public/img/ride/baiyanggou/fushi.jpg" height="200",width="200"/><br>
+<img src="/public/img/ride/baiyanggou/down.jpg" height="100",width="100"/><br>
+<img src="/public/img/ride/baiyanggou/fushi.jpg" height="100",width="100"/><br>
 **六道弯，海拔100米**<br>
-<img src="/public/img/ride/baiyanggou/liudaowan_1.jpg" height="200",width="200"/><br>
-<img src="/public/img/ride/baiyanggou/liudaowan_2.jpg" height="200",width="200"/><br>
-<img src="/public/img/ride/baiyanggou/溪水.jpg.jpg" height="200",width="200"/><br>
+<img src="/public/img/ride/baiyanggou/liudaowan_1.jpg" height="100",width="100"/><br>
+<img src="/public/img/ride/baiyanggou/liudaowan_2.jpg" height="100",width="100"/><br>
+<img src="/public/img/ride/baiyanggou/溪水.jpg" height="100",width="100"/><br>
 **最后是自拍时刻**<br>
-<img src="/public/img/ride/baiyanggou/myself.jpg.jpg" height="200",width="200"/><br>
-<img src="/public/img/ride/baiyanggou/zipai.jpg.jpg" height="200",width="200"/><br>
+<img src="/public/img/ride/baiyanggou/myself.jpg" height="100",width="100"/><br>
+<img src="/public/img/ride/baiyanggou/zipai.jpg" height="100",width="100"/><br>
 
 附加：骑行路线图，不太清晰，来自行者骑行软件。<br>
-<img src="/public/img/ride/baiyanggou_route.png" height="200",width="200"/><br>
+<img src="/public/img/ride/baiyanggou_route.png" height="100",width="100"/><br>
 
